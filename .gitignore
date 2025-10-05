@@ -1,0 +1,14 @@
+target/
+.mvn/
+mvn.cmd
+mvnw
+mvnw.cmd
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+/data/
+*.log
